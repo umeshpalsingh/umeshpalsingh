@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, I am Umesh 👋
 
+https://github.com/umeshpalsingh 
 <!--
 **umeshpalsingh/umeshpalsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... through this website you can contact me.
 - 😄 Pronouns: ... umesh is my name 
 - ⚡ Fun fact: ... I build this with only HTML5 and CSS3
--->Hope you liked it. I build this for me to show people a little bit about myself.
+
