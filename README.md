@@ -1,6 +1,8 @@
 ### Hi there, I am Umesh 👋
 
 https://github.com/umeshpalsingh 
+http://github.com - automatic!
+[GitHub](http://github.com)
 <!--
 **umeshpalsingh/umeshpalsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
