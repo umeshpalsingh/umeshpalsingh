@@ -1,8 +1,5 @@
-[![MasterHead](https://user-images.githubusercontent.com/69305601/147767839-6b026454-7e14-49b7-975b-f2ccd1649e0e.png)
+[![MasterHead](https://user-images.githubusercontent.com/69305601/147773951-30e776eb-9de5-4e44-afc9-22fa67133a26.png)
 ](https://github.com/umeshpalsingh)
-
-<h1 align="center">Hi 👋, I'm Umesh</h1>
-<h3 align="center">A passionate web developer from India.</h3>
 
 
 
