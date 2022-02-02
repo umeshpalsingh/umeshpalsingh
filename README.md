@@ -7,11 +7,11 @@
 <h3 align="left">I have a passion for programming and technology! 🚀</h3>
 
 <div align="left">
-    <h3>👨🏽‍💻 About me:</h3>
-        <p>• I’m currently learning: <b>Front-end development with React.js, trying to get my first experience as a developer.</b></p>
-        <p>• Hobbies: <b>Games 🎮 | Music 🎧 | Exercise 🏃</b></p>
-        <p>• Ask me about: <b>Anything, honestly, I love knowledge and learning new things</b></p>
-        <p>• How to reach me: <b>umeshpal6789@gmail.com</b></p>
+    <h3>🧑‍💻 About me:</h3>
+        <p>➡️ I’m currently learning: <b>Front-end development with React.js.</b></p>
+        <p>➡️ Hobbies: <b>Games 🎮 | Music 🎧 | Exercise 🏃</b></p>
+        <p>➡️ Ask me about: <b>Anything, honestly, I love knowledge and learning new things</b></p>
+        <p>➡️ How to reach me: <b>umeshpal6789@gmail.com</b></p>
 </div><br>
 
 <div align="center">
