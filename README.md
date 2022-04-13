@@ -11,7 +11,7 @@
         <p>➡️ I’m currently learning: <b>Front-end development with React.js.</b></p>
         <p>➡️ Hobbies: <b>Games 🎮 | Music 🎧 | Exercise 🏃</b></p>
         <p>➡️ Ask me about: <b>Anything, honestly, I love knowledge and learning new things</b></p>
-        <p>➡️ How to reach me: <b>umeshpal6789@gmail.com</b></p>
+        <p>➡️ How to reach me: <a href="mailto:umeshpalsingh.dev@gmail.com">umeshpalsingh.dev@gmail.com</a></p>
 </div><br>
 
 <div align="center">
