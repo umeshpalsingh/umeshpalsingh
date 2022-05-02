@@ -8,7 +8,7 @@
 
 <div align="left">
     <h3>🧑‍💻 About me:</h3>
-        <p>➡️ I am a passionate front-end developer</p>
+        <p>➡️ I am a passionate <b>front-end developer</b></p>
         <p>➡️ Hobbies: <b>Games 🎮 | Music 🎧 | Walking 🏃</b></p>
         <p>➡️ Ask me about: <b>Anything, honestly, I love knowledge and learning new things</b></p>
         <p>➡️ How to reach me: <a href="mailto:umeshpalsingh.dev@gmail.com">umeshpalsingh.dev@gmail.com</a></p>
