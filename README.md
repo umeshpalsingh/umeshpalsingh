@@ -2,8 +2,6 @@
     
 <h1 align="left">Hi 👋🏽, I'm Umesh</h1>
 
-![Profile views](https://gpvc.arturio.dev/umeshpalsingh)
-
 <h3 align="left">I have a passion for programming and technology! 🚀</h3>
 
 <div align="left">
@@ -11,7 +9,7 @@
         <p>➡️ I am a passionate <b>front-end developer</b></p>
         <p>➡️ Hobbies: <b>Games 🎮 | Music 🎧 | Walking 🏃</b></p>
         <p>➡️ Ask me about: <b>Anything, honestly, I love knowledge and learning new things</b></p>
-        <p>➡️ How to reach me: <a href="mailto:umeshpalsingh.dev@gmail.com">umeshpalsingh.dev@gmail.com</a></p>
+        <p>➡️ How to reach me: <a href="mailto:umeshpal6789@gmail.com">umeshpal6789@gmail.com</a></p>
 </div><br>
 
 <div align="center">
